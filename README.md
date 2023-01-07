@@ -1,2 +1,2 @@
 # Reddit-Sentiment-Stock-Analyzer
-### This project was a group project, completed with a partner, for a class in the fall of 2021. It includes my first brush with Natural Language Processing as well as some of my first work with Pandas dataframes.
+### This project pulls Reddit comments that mention a specified stock, analyzes the sentiment surrounding that stock over time, and plots that alongside the stock's price performance. It also analyzes correlations between the two.
